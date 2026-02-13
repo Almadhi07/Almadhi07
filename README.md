@@ -3,12 +3,7 @@
 I’m currently working on  
 - Google Cloud AI Agents (ADK + Agent Starter Pack) for real-world workflows  
 - A full-stack Expense Tracker web application  
-- A Discord chatbot to help students with university resources  
-
-🤝 I’m looking for help with  
-- Improving AI agent reliability and evaluation  
-- Security best practices for web and cloud apps  
-- Monitoring and observability (logs, metrics, tracing)  
+- A Discord chatbot to help students with university resources   
 
 💬 Ask me about  
 - Front-end development with React  
@@ -17,7 +12,7 @@ I’m currently working on
 - Switching careers into tech or getting started in CS  
 
 ⚡ Fun fact  
-- I originally studied Criminal Justice before switching to Computer Science, and now I build AI systems and web apps.
+- I originally studied Criminal Justice before switching to Computer Science.
 
 
 ## 🌐 Socials:
